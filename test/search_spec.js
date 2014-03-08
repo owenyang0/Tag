@@ -1,5 +1,5 @@
 var expect = require("chai").expect;
-var Search = require("../lib/search.js");
+var Search = require("../build/Tag.min.js").Search;
 var fs = require("fs");
 
 describe('Search', function () {

@@ -1,4 +1,4 @@
-module.exports = Tags;
+module.exports.Tags = Tags;
 
 function Tags() { }
 

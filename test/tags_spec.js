@@ -1,5 +1,5 @@
 var expect = require("chai").expect;
-var Tags = require("../lib/tags.js");
+var Tags = require("../build/Tag.min.js").Tags;
 
 describe("Tags", function () {
   var tags;

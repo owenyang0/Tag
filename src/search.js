@@ -1,4 +1,4 @@
-module.exports = Search;
+module.exports.Search = Search;
 var fs = require("fs");
 
 function Search() {}
